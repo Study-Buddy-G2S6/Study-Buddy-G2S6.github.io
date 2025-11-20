@@ -10,6 +10,11 @@
 <!-- - [Advanced Features](#advanced-features) -->
 <!-- - [Team](#team) -->
 
+## Maintainers
+- Jazz Lam
+- Brandon Nguyen
+- Caleb Zerbe
+
 ---
 
 ## Overview
@@ -63,7 +68,7 @@ Admins oversee behavior and handle reports of inappropriate use.
 ### Technology Stack (suggested)
 - Bootstrap + React for the web application.
 - PostgreSQL for user and session data.
-- FullCalendar.js for the session calendar UI.
+- Google Calendar API for the session calendar UI.
 - Slack integration for notifications.
 
 ### Key Collections
