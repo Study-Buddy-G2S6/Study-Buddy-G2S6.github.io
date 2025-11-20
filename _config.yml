@@ -1,0 +1,8 @@
+title: Study Buddy
+description: An app for students across UH Manoa to find students with similar courses who would like to meet up to study for exams, quizzes, and other classwork.
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+    is_project_page: true
+    owner: "Study-Buddy-G2S6"
+    repository_url: https://github.com/Study-BuddyG2S6/Study-BuddyG2S6.github.io
