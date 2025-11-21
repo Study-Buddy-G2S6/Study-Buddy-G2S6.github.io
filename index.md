@@ -11,9 +11,9 @@
 <!-- - [Team](#team) -->
 
 ## Maintainers
-- Jazz Lam
-- Brandon Nguyen
-- Caleb Zerbe
+- <a href="https://github.com/jazzhlam">Jazz Lam</a>
+- <a href="https://github.com/Nguyenbd-code">Brandon Nguyen</a>
+- <a href="https://github.com/calebzerbe">Caleb Zerbe</a>
 
 ## Team Contract
 <a href="https://docs.google.com/document/d/1kHJIk9nhjPRMPwMGNicvlQ-7Rr_LjTrXq4lzIb7Tw2M/edit?usp=sharing">View Team Contract</a>
