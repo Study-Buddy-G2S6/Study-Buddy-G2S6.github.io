@@ -96,9 +96,7 @@ Users set up or edit their profile, including adding courses they can help with 
 - Add/remove courses and update personal information.
 
 ![Profile](images/profile-page.png)
-*caption*
-
-*(Take screenshots of the Profile page and Edit Profile page, save them as doc/profile-page.png and doc/profile-edit-page.png)*
+*(Take screenshots of the Profile page and Edit Profile page, save them as images/profile-page.png and images/profile-edit-page.png)*
 
 ### Creating and Managing Study Sessions
 Users can create, edit, join, or view their own sessions.
@@ -135,7 +133,7 @@ Browse available ICS courses and see associated sessions or users interested in 
 - Sign Out: Safely log out of the application.
   
   ![Sign Out Page](images/sign-out.png)
-  *onfirmation page for signing out.*
+  *Confirmation page for signing out.*
 
 - Not Authorized: Displayed if trying to access a restricted page.
   
