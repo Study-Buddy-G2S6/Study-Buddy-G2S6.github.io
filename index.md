@@ -96,18 +96,21 @@ Users set up or edit their profile, including adding courses they can help with 
 - Add/remove courses and update personal information.
 
 ![Profile](images/profile-page.png)
-*(Take screenshots of the Profile page and Edit Profile page, save them as images/profile-page.png and images/profile-edit-page.png)*
+*Main Profile Page*
+
+![Edit Profile](images/edit-profile-page.png)
+*Edit profile page, changing any courses*
 
 ### Creating and Managing Study Sessions
 Users can create, edit, join, or view their own sessions.
 
-- **Create a Session**: Go to Sessions > Add Session. Specify topic, course, date/time, and details.
+- **Create a Session**: Go to Create Sessions, Specify topic, course, date/time, and details.
 
 ![Create Session](images/create-session.png)
 
 - **My Sessions**: View and manage sessions you've created or joined.
 
-![My Sessions](images/image.png)
+![My Sessions](images/my-session.png)
 
 - **All Sessions**: Browse and RSVP to available sessions.
 
@@ -118,13 +121,8 @@ View all upcoming study sessions in a calendar format.
 
 ![Calender](images/calender.png)
 
-
-### Course Pages
-Browse available ICS courses and see associated sessions or users interested in them.
-
-*(Take screenshots of course listing or individual course pages as needed, e.g., images/course-list-page.png)*
-
 ### Other Pages
+
 - Change Password: Securely update your password.
   
   ![Change Password Page](images/change-password-page.png)
@@ -134,11 +132,6 @@ Browse available ICS courses and see associated sessions or users interested in 
   
   ![Sign Out Page](images/sign-out.png)
   *Confirmation page for signing out.*
-
-- Not Authorized: Displayed if trying to access a restricted page.
-  
-  ![Not Authorized Page](images/not-authorized-page.png)
-  *Error page shown for unauthorized access.*
 
 ### Game Mechanics
 To motivate participation, Study Buddy incorporates points, levels, or leaderboards.
