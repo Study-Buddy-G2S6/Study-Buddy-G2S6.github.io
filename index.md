@@ -28,7 +28,7 @@ We collaborated via GitHub issues, pull requests, and regular stand-ups as outli
 ## Milestones
 - Our progress is tracked using issue driven project management. Our issues (tasks) are displayed in three milestones below:
 - <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/1">Milestone 1</a> – Initial setup, authentication, basic pages  (November 6 - November 20)
-- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/3">Milestone 3</a> – Profile management, session creation, course integration
+- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/2">Milestone 2</a> – Profile management, session creation, course integration
 (November 21 - December 2)
 - <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/3">Milestone 3</a> – Calendar, polish, testing, deployment
  (December 3 - December 11)
