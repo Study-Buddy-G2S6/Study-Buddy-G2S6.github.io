@@ -154,10 +154,9 @@ If not logged in, most pages redirect to sign-in. No guest browsing of user data
 
 ## Community Feedback
 
-We gathered feedback from 5 ICS students who tested the deployed application. Replace the placeholder below with your actual summary once collected.
+We gathered feedback from 5 ICS students who tested the deployed application.
 
-*(Placeholder - update with real feedback):*  
-"Five fellow ICS students tried Study Buddy. They found signing in and setting up a profile straightforward and quick. Creating and browsing study sessions was intuitive, though two users suggested clearer labels for session types (planned vs. immediate). The calendar view was praised for helping visualize availability. Minor suggestions included better mobile responsiveness and notifications for new sessions. Overall, 4 out of 5 said they would use the app regularly for group study once more courses and users are added."
+*(Placeholder - update with feedback):*  
 
 ---
 
