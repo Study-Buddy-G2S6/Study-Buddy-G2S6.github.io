@@ -1,9 +1,5 @@
 # Study Buddy
 
-<div class="hero">
-  <h2>Connect UHM ICS Students for In-Person Study Sessions</h2>
-  <p>Study Buddy helps you form collaborative groups in ICSpace—faster learning, better retention.</p>
-
 ## Table of Contents
 - [Overview](#overview)
 - [Deployment](#deployment)
