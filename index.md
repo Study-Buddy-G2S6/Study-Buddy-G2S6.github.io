@@ -1,5 +1,9 @@
 # Study Buddy
 
+<div class="hero">
+  <h2>Connect UHM ICS Students for In-Person Study Sessions</h2>
+  <p>Study Buddy helps you form collaborative groups in ICSpace—faster learning, better retention.</p>
+
 ## Table of Contents
 - [Overview](#overview)
 - [Deployment](#deployment)
@@ -93,7 +97,7 @@ Users set up or edit their profile, including adding courses they can help with 
 ![Profile](images/profile-page.png)
 *Main Profile Page*
 
-![Edit Profile](images/edit-profile-page.png)
+![Edit Profile](images/profile-edit.png)
 *Edit profile page, changing any courses*
 
 ### Creating and Managing Study Sessions
@@ -128,10 +132,26 @@ View all upcoming study sessions in a calendar format.
   ![Sign Out Page](images/sign-out.png)
   *Confirmation page for signing out.*
 
+### Admin Features
+
+Administrators have additional privileges to oversee and maintain the platform:
+
+- **Create Sessions on Behalf of Users**: Admins can create study sessions for any user, regardless of who is logged in. This is useful for testing, moderation, or assisting users who need help setting up sessions.
+
+![Create Sessions (Admin)](images/admin-create-session.png)
+
+- **Manage and Delete Sessions**: Admins can view, edit, or delete (drop) any study session created by any user, ensuring inappropriate or outdated sessions can be removed promptly.
+
+![Manage and Delete Sessions (Admin)](images/admin-delete.png)
+
+These tools help maintain a safe and functional environment for all users.
+
 ### Game Mechanics
 To motivate participation, Study Buddy incorporates points, levels, or leaderboards.
 Admins may also distribute gift cards or rewards to top-performing students.
 The challenge is to design the reward system to prevent abuse or “gaming” the system.
+
+![Leaderboard](images/leaderboard.png)
 
 Admins oversee behavior and handle reports of inappropriate use.
 
@@ -139,12 +159,6 @@ Admins oversee behavior and handle reports of inappropriate use.
 
 If not logged in, most pages redirect to sign-in. No guest browsing of user data is allowed for privacy.
 <img src="" />
-
-## Community Feedback
-
-We gathered feedback from 5 ICS students who tested the deployed application.
-
-*(Placeholder - update with feedback):*  
 
 ---
 
