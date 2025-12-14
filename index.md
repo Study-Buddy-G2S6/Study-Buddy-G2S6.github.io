@@ -1,11 +1,14 @@
 # Study Buddy
 
-## Table of contents
+## Table of Contents
 - [Overview](#overview)
 - [Deployment](#deployment)
 - [User Guide](#user-guide)
-- [Community Feedback](#community-feedback)
 - [Developer Guide](#developer-guide)
+- [Development History](#development-history)
+- [Community Feedback](#community-feedback)
+- [Contact Us](#contact-us)
+- [Contribution](#contribution)
 
 <!-- - [Mockup Pages](#mockup-pages) -->
 <!-- - [Use Cases](#use-cases) -->
@@ -24,14 +27,6 @@ We collaborated via GitHub issues, pull requests, and regular stand-ups as outli
 
 ## Deployment
 <a href="https://study-buddy-flax-ten.vercel.app/">View Current Website</a>
-
-## Milestones
-- Our progress is tracked using issue driven project management. Our issues (tasks) are displayed in three milestones below:
-- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/1">Milestone 1</a> – Initial setup, authentication, basic pages  (November 6 - November 20)
-- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/2">Milestone 2</a> – Profile management, session creation, course integration
-(November 21 - December 2)
-- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/3">Milestone 3</a> – Calendar, polish, testing, deployment
- (December 3 - December 11)
 
 ---
 
@@ -216,5 +211,47 @@ Always lint before committing:
 ```bash
 npm run lint
 ```
-### Contributing
+---
+
+## Development History
+
+Study Buddy was developed using Issue Driven Project Management (IDPM). Tasks were implemented as GitHub Issues, assigned to individual developers, and tracked via Project Boards. Each task was completed on a branch named issue-XX, then merged to main after review.
+Development was organized into three milestones:
+
+- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/1">Milestone 1</a> : Initial setup, authentication, basic pages
+
+
+- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/2">Milestone 2</a>: Profile management, session creation, course integration
+
+
+- <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/2">Milestone 3</a>: Calendar, polish, testing, deployment
+
+---
+
+## Community Feedback
+
+We deployed the application and gathered feedback from several fellow UHM ICS students through hands-on testing.
+
+**UI and Ease of Use**  
+Testers found the site visually appealing and easy to navigate, noting that moving from page to page felt straightforward and intuitive.
+
+**Opportunities for Improvement**  
+The primary issue reported was that some links were not working properly. Testers suggested fixing these navigation issues to improve the overall experience.
+
+**App Performance**  
+No major performance concerns were mentioned; the application loaded and responded smoothly during testing.
+
+**Bugs and Anomalies**  
+Beyond the broken links, no significant bugs were reported.
+
+Overall, feedback was generally positive regarding the look and ease of use, with the main constructive criticism focused on resolving the non-functional links.
+
+---
+
+## Contact-us
+
+- For questions or feedback, reach out via GitHub Issues on the repository or contact individual team members through their personal pages.
+Thank you for visiting Study Buddy!
+
+## Contribution
 - Create a branch, make changes, test locally, and submit a pull request referencing the relevant issue.
