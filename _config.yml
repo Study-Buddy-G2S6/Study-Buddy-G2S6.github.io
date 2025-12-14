@@ -1,14 +1,6 @@
-title: Study Buddy
-description: An app for UHM ICS students to organize in-person study sessions in ICSpace.
 show_downloads: false
-
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-# GitHub metadata
+theme: jekyll-theme-cayman
 github:
-  is_project_page: true
-  owner_name: Study-Buddy-G2S6
-  repository_name: study-buddy
-  repository_url: https://github.com/Study-Buddy-G2S6/study-buddy
+    is_project_page: true
+    owner: "Study-Buddy-G2S6"
+    repository_url: https://github.com/Study-Buddy-G2S6/study-buddy
